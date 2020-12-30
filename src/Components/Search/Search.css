@@ -1,0 +1,7 @@
+.searchBox, .filterBox {
+    padding: 10px;
+}
+
+label, input, select {
+    margin-right: 10px;
+}
